@@ -1,2 +1,2 @@
 # Recipes
-These are my favorite recipes
+This is a introductory project of The Odin Project Curriculum.
